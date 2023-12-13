@@ -110,7 +110,7 @@ function App() {
 
 const StyledApp = styled.div`
   padding: 20px;
-  height: 60vw;
+  min-height: 900px;
   /** Button style */
   .MyButton_positive {
     background-color: #64c964;
